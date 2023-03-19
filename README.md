@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and app building.
 - 🌱 I’m currently learning how to become a professional programmer.
 - 💞️ I’m looking to collaborate on any projects where I have lots to learn from.
-- 📫 You can reach me at caseycharleston@gmail.com.
+- 📫 You can reach me at caseycharleston@utexas.com.
 
 
 <!---
